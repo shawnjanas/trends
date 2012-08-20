@@ -1,0 +1,8 @@
+{
+  "name": "YoutubeTrendingEngine",
+  "version": "0.0.1",
+  "dependencies": {
+    "ntwitter": "*",
+    "redis": "*"
+  }
+}
